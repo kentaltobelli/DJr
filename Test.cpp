@@ -1,2 +1,0 @@
-hello kent
-hi liz!
